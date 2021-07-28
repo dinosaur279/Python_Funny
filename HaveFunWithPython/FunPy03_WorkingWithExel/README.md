@@ -11,8 +11,3 @@
 * Module: lxml </br>
 `pip install lxml`
 
-# System Design
-![System Design](_System.jpg)
-
-# Project structure | Class Diagram
-![ClassDiagram](_ClassDiagram.png)
