@@ -8,16 +8,5 @@ Kiến thức:
 - Biết cách sử dụng thư viện Selenium cơ bản
 - Các câu lệnh cơ bản trong Python
 
-Video hướng dẫn chi tiết: https://www.youtube.com/watch?v=XSQT9RBKoCs
-
-Bài viết hướng dẫn chi tiết: http://www.hoangvancong.com/2020/07/02/web-automation-with-selenium-python/
-
-* FireFox Driver:
-geckodriver: https://github.com/mozilla/geckodriver/releases
-
-* Chrome Driver:
-http://chromedriver.storage.googleapis.com/index.html
-
-
 Add Driver to you PATH.
 With MAC, copy driver to /usr/local/bin folder
